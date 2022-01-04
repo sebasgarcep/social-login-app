@@ -1,7 +1,7 @@
 import { StackScreenProps } from '@react-navigation/stack';
 import * as React from 'react';
 import { StyleSheet } from 'react-native';
-import { Button, Title, Subheading } from 'react-native-paper';
+import { Button, Title } from 'react-native-paper';
 
 import Container from '../components/Container';
 import { RootStackParamList } from '../types';
